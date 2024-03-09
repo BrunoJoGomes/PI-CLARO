@@ -1,0 +1,10 @@
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\bin\Debug\PI (AULAS).exe.config
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\bin\Debug\PI (AULAS).exe
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\bin\Debug\PI (AULAS).pdb
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\obj\Debug\PI (AULAS).csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\obj\Debug\PI__AULAS_.Form1.resources
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\obj\Debug\PI__AULAS_.Properties.Resources.resources
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\obj\Debug\PI (AULAS).csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\obj\Debug\PI (AULAS).csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\obj\Debug\PI (AULAS).exe
+C:\Users\Bruno\source\repos\PI (AULAS)\PI (AULAS)\obj\Debug\PI (AULAS).pdb
